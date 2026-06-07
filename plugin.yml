@@ -1,0 +1,7 @@
+---
+name: JoinMessage
+version: 0.0.1
+main: Jqke207\JoinMessage\Main
+api: 5.43.0
+src-namespace-prefix: Jqke207\JoinMessage
+...
