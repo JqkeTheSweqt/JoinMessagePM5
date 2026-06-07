@@ -1,0 +1,3 @@
+# The players username will automatically be added before the join message.
+# An example join message is displayed..
+join-message: "Welcome to my server!"
